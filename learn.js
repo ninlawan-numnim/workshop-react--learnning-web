@@ -68,3 +68,8 @@ console.log(chexkAnswer(question[0], "Hello"));
 console.log("current score:", score);
 console.log(chexkAnswer(question[1], "sorry"));
 console.log("current score:", score);
+
+
+function WelcomeMessage(playerName) {
+    return <h1>Welcome!</h1>;
+}
